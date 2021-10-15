@@ -1,0 +1,26 @@
+colors:
+  primary:
+    background: '0x1d1f21'
+    foreground: '0x%'
+
+  #Normal colors
+  normal:
+    black:   '0x$'
+    red:     '0x$'
+    green:   '0x$'
+    yellow:  '0x$'
+    blue:    '0x$'
+    magenta: '0x$'
+    cyan:    '0x$'
+    white:   '0x$'
+
+  # Bright colors
+  bright:
+    black:   '0x$'
+    red:     '0x$'
+    green:   '0x$'
+    yellow:  '0x$'
+    blue:    '0x$'
+    magenta: '0x$'
+    cyan:    '0x$'
+    white:   '0x$'
