@@ -33,5 +33,3 @@ elif [ $OPT = "c" ]; then
 		read -p "" IMGDIR
 		printf "%s" "$IMGDIR" > "$CONF"
 fi
-
-
